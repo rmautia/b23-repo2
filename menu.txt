@@ -6,4 +6,12 @@ Expresso 	3.25 250 cal
 
 Ice Coffee 2.88  300 cal 
 
-jhasgdhjas
+Lunch Menu : 
+
+Butter chicke 12000 cal 10.99
+polo  2000 cal 15.99
+
+Burger 10000 cal 5.99
+Veggie Bowl 10 cal 5.99
+Donner 500 cal 8.99
+Kebab 500 cal 9.99
